@@ -1,0 +1,6 @@
+{
+  "name": "Personal Expense Tracker",
+  "description": "A Python-powered Personal Expense Tracker with SQLite persistence, interactive category and monthly spending analytics, monthly budget alerts, and a BTech Python Experiential Learning presentation guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
